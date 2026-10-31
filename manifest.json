@@ -1,0 +1,9 @@
+{
+  "id": "focus-queue",
+  "name": "Focus Queue",
+  "version": "1.2.0",
+  "minAppVersion": "1.5.0",
+  "description": "A calm, synchronized daily and weekly study queue with optional deadline sorting.",
+  "author": "Focus Queue",
+  "isDesktopOnly": false
+}
